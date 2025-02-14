@@ -6,11 +6,12 @@
 Welcome to the Hostel Allotment System, a project proudly developed by Team Jupiter. Our aim is to provide a seamless online solution for managing hostel room bookings and outpass generation.
 
 Contributors:
+- Arshdeep Singh
 - Rajbir Singh
 - Gurnoor Singh
 - Jaisman Kaur
 - Prableen Kaur
-- Arshdeep Singh
+
 
 ## 🚀 Problem Statement  
 Managing hostel room bookings and outpass generation can be cumbersome and inefficient when handled manually. Students often face delays, while wardens and administrators struggle to keep track of requests and approvals.  
